@@ -1,16 +1,20 @@
-# flutter_radio
+## Carvaan Radio
 
-A new Flutter project.
+**Carvaan Radio** is a Flutter app that allows you to listen to radio stations from all over the world. It features a simple and user-friendly interface, with a list of radio stations that you can browse and select from. You can also play and pause the radio, and adjust the volume.
 
-## Getting Started
+### Features
 
-This project is a starting point for a Flutter application.
+* Listen to radio stations from all over the world
+* Simple and user-friendly interface
+* Browse and select radio stations from a list
+* Play and pause the radio
+* Adjust the volume
 
-A few resources to get you started if this is your first Flutter project:
+### Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To get started, clone this repository and run the following commands:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ```
+  flutter pub get
+  flutter run
+  ```
