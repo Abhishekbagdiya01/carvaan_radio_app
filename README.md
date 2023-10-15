@@ -18,3 +18,11 @@ To get started, clone this repository and run the following commands:
   flutter pub get
   flutter run
   ```
+### Screenshots
+
+<img src="https://github.com/Abhishekbagdiya01/carvaan_radio_app/blob/main/screenshots/screenshot1.png" />
+<img src="https://github.com/Abhishekbagdiya01/carvaan_radio_app/blob/main/screenshots/screenshot2.png" />
+<img src="https://github.com/Abhishekbagdiya01/carvaan_radio_app/blob/main/screenshots/screenshot3.png" />
+<img src="https://github.com/Abhishekbagdiya01/carvaan_radio_app/blob/main/screenshots/screenshot4.png" />
+
+###
