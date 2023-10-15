@@ -63,14 +63,17 @@ class _PlayerScreenState extends State<PlayerScreen> {
                   : Image.asset(APPLOGO),
             ),
             Container(
+              padding: EdgeInsets.only(left: 10, right: 10),
               child: Column(
                 children: [
-                  Text(
-                    "${widget.radioStation["title"]}",
-                    style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 24,
-                        fontWeight: FontWeight.bold),
+                  Center(
+                    child: Text(
+                      "${widget.radioStation["title"]}",
+                      style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 24,
+                          fontWeight: FontWeight.bold),
+                    ),
                   ),
                   SizedBox(
                       width: MediaQuery.sizeOf(context).width * .8,
